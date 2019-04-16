@@ -64,4 +64,5 @@ if(flag==0)
 printf("\n---------------IT'S AN UNSAFE STATE---------------");
 else
 printf("\n*******************IT'S A SAFE STATE*******************");
+return 0;
 }
